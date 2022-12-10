@@ -11,7 +11,7 @@ script_help = """
  / _` | || | / _| / / '_/ -_) V (_-< ' \/ -_) | |_| '_ \ || |
  \__, |\_,_|_\__|_\_\_| \___|\_//__/_||_\___|_|_(_) .__/\_, |
     |_|                                           |_|   |__/ 
-    Made by: @AnotherJosh00
+    Made by: 10xJosh On GitHub
     
     
 A quick reverse shell generator based off of Pentest Monkey's cheatsheet.
